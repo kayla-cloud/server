@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "basic web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "server"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "kaylas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
