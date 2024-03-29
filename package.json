@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "server"
+    "url": "server" 
   },
   "keywords": [
     "server"
